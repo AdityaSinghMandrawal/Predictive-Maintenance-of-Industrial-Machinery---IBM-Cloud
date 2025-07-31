@@ -44,7 +44,7 @@ Intern – IBM SkillsBuild Program (2025)
 ## 📜 References
 - [IBM Watson Studio](https://www.ibm.com/cloud/watson-studio)
 - [Scikit-learn Documentation](https://scikit-learn.org/stable/)
-- [Kaggle Dataset](https://www.kaggle.com/datasets/shivamb/machinepredictive-maintenance-classification)
+- [Kaggle Dataset](https://www.kaggle.com/datasets/shivamb/machine-predictive-maintenance-classification)
 
 ## 📌 License
 This project is part of an internship and is for educational purposes only.
