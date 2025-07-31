@@ -41,6 +41,12 @@ In today’s industrial environment, unplanned equipment failures lead to costly
 B.Tech CSE – Graphic Era Hill University  
 Intern – IBM SkillsBuild Program (2025)
 
+## 🔗 Project Endpoint
+To view and interact with the deployed model, use the following IBM Cloud endpoint:  
+**[Predictive Maintenance API Endpoint](https://eu-gb.ml.cloud.ibm.com/ml/v4/deployments/133241a5-77da-4803-a978-c4a6712ae6fb/predictions?version=2021-05-01)**
+
+> Note: API key and proper authorization required to access the endpoint.
+
 ## 📜 References
 - [IBM Watson Studio](https://www.ibm.com/cloud/watson-studio)
 - [Scikit-learn Documentation](https://scikit-learn.org/stable/)
