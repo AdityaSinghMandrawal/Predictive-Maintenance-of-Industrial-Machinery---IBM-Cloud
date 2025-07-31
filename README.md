@@ -12,7 +12,7 @@ In today’s industrial environment, unplanned equipment failures lead to costly
 - Created an interface to simulate real-time monitoring and predictions
 
 ## 📂 Dataset
-[Kaggle: Predictive Maintenance Classification](https://www.kaggle.com/datasets/shivamb/machinepredictive-maintenance-classification)
+[Kaggle: Predictive Maintenance Classification](https://www.kaggle.com/datasets/shivamb/machine-predictive-maintenance-classification)
 
 ## 🧪 Tools & Technologies
 - IBM Cloud Lite & Watsonx.ai Studio
